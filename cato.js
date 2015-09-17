@@ -1,33 +1,12 @@
 if (Meteor.isClient) {
-
-}
-
-if (Meteor.isServer) {
-  Meteor.startup(function () {
-    var x = 1;
-    if (Legislators.find().count() === 0) {
-      Assets.getText('legislators/legislators-current.json', function(err,res) {
-        _.each(JSON.parse(res), function(legislator, i) {
-          Legislators.insert(legislator)
-        })
+  Template.home.events({
+    'click button': function() {
+      Meteor.call("getBills", function(err,res){
+        console.log(err);
+        console.log(JSON.parse(res));
       })
     }
-    if (Bills.find().count() === 0) {
-      var fs = Npm.require('fs')
-      var files = fs.readdirSync('/Users/xxxx/qSites/bills_json')
-      var getData = Meteor.bindEnvironment(function(files) {
-
-        _.each(files, function(file) {
-          var content = fs.readFileSync('/Users/xxxx/qSites/bills_json/' + file, 'utf8')
-          var success = Bills.insert(content)
-          if (x % 100 === 0) { console.log(x);}
-          x+=1;
-          if (Bills.find().count() === files.length) { console.log("UPLOAD COMPLETE");}
-        });
-      })
-      getData(files)
-    }
-  });
+  })
 }
 
 
