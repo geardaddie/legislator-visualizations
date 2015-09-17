@@ -13,28 +13,19 @@ if (Meteor.isServer) {
       })
     }
     if (Bills.find().count() === 0) {
-      // var fs = Npm.require('fs')
-      // var filenamesArray = [];
-      // fs.readdir('./assets/app/bills_json', function(err, res) {
-      //   filenamesArray = res;
-      // //   // _.each(res, function(filename){
-      // //   //   // console.log(filename);
-      // //   //   Assets.getText("bills/" + filename, function(err,res) {
-      // //   //     console.log(err);
-      // //   //     // xml2js.parseString(res, {attrkey: "attr-key"}, function(err,res) {
-      // //   //     //   console.log(x);
-      // //   //     //   x+=1;
-      // //   //     //   Bills.insert(res)
-      // //   //     // })
-      // //   //   })
-      // //   // })
-      // })
-      // console.log(filenamesArray);
+      var fs = Npm.require('fs')
+      var files = fs.readdirSync('/Users/xxxx/qSites/bills_json')
+      var getData = Meteor.bindEnvironment(function(files) {
 
-      // _.each(filenamesArray, function(filename) {
-      //   console.log(filename);
-      // })
-
+        _.each(files, function(file) {
+          var content = fs.readFileSync('/Users/xxxx/qSites/bills_json/' + file, 'utf8')
+          var success = Bills.insert(content)
+          if (x % 100 === 0) { console.log(x);}
+          x+=1;
+          if (Bills.find().count() === files.length) { console.log("UPLOAD COMPLETE");}
+        });
+      })
+      getData(files)
     }
   });
 }
