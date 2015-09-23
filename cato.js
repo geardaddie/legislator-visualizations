@@ -1,12 +1,5 @@
 if (Meteor.isClient) {
-  Template.home.events({
-    'click button': function() {
-      Meteor.call("getBills", function(err,res){
-        console.log(err);
-        console.log(JSON.parse(res));
-      })
-    }
-  })
+
 }
 
 
