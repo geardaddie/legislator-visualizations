@@ -19,3 +19,7 @@ check
 ecmascript
 react
 ramda:ramda
+meteorhacks:npm
+
+
+npm-container
