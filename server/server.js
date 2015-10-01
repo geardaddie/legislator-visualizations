@@ -5,19 +5,17 @@ Meteor.startup(function () {
   var fs = Npm.require('fs')
   var files = fs.readdirSync('/Users/xxxx/qSites/bills_xml')
 
-  // This function takes the legislators from Assets and adds to DB. Pretty straight-forward
-  var populateLegislators = function() {
-    Assets.getText('legislators/legislators-current.json', function(err,res) {
-      _.each(JSON.parse(res), function(legislator, i) {
-        Legislators.insert(legislator)
-      })
-    })
-  }
+  let actSet = [];
+
+  console.log("Populating legislators...");
+  let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
+  let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
+  let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
+  console.log("Added " + legislatorArray.length + " legislators.");
 
   // Must bind to the file system environment or it will not work
   var populateBills = Meteor.bindEnvironment(function(files) {
     // Iterate over each file
-    var counter = 0;
     _.each(files, function(file, i) {
       if (i < 1000) { // XXX this will eventually be removed. It's just to limit the number of times it runs
         // Find files that are type .json
@@ -48,7 +46,6 @@ Meteor.startup(function () {
             return valueArray;
           }
 
-
           // Get the contents of the file
           var content = fs.readFileSync('/Users/xxxx/qSites/bills_xml/' + file, 'utf8');
 
@@ -60,7 +57,8 @@ Meteor.startup(function () {
 
           var entityRef = xmlDoc.getElementsByTagName('cato:entity-ref')
 
-          var acts = getValues(entityRef, 'act')
+          // only unique act names
+          var acts = _.uniq(getValues(entityRef, 'act'))
           var federalBodies = getValues(entityRef, 'federal-body')
           // var people = getValues(entityRef, 'person')
           // var committees = getValues(entityRef, 'committee')
@@ -71,21 +69,37 @@ Meteor.startup(function () {
 
           // take only acts that reference other acts
           if (acts.length) {
-            let test = Legislators.find({"id.bioguide": sponsor}).fetch()[0]
-            if (test === undefined) {
-              console.log(file);
-            }
-            // console.log(test.name.official_full);
-            // console.log(sponsor, acts);
+            // filter out all legislators other than the one we want
+            let currentSponsor = _.find(legislatorArray, function(legislator) {
+              return legislator.id.bioguide === sponsor;
+            })
+            // let sponsorName = currentSponsor.name.official_full
+            let sponsorParty = currentSponsor.terms[0].party
+
+            // console.log(sponsorName, sponsorParty);
+            _.each(acts, function(act) {
+              // Make sure the party is either republican or democrat
+              if (sponsorParty === "Democrat" || sponsorParty === "Republican") {
+                // if it does not have the act
+                if (!_.find(actSet, function(obj) { return obj.act === act})) {
+                  // give the object an "act" property
+                  let actObj = {
+                    act: act,
+                    Republican: 0,
+                    Democrat: 0
+                  }
+                  actObj[sponsorParty] += 1;
+                  actSet.push(actObj)
+
+                } else { // if the act has already been referenced
+                  let currentAct = _.find(actSet, function(obj) {
+                    return obj.act === act;
+                  })
+                  currentAct[sponsorParty] += 1;
+                }
+              }
+            })
           }
-
-
-
-          // Iterate over each entityRef and get the proper values... would be nice if there were an exestential operator
-
-          // <cato:entity-ref xmlns:cato="http://namespaces.cato.org/catoxml" value="Continuing Appropriations Resolution, 2015" entity-type="act">
-          // <cato:entity-ref entity-id="0100" entity-type="federal-body">
-          // TODO we can later reference federal bodies
         }
       }
     });
@@ -99,17 +113,14 @@ Meteor.startup(function () {
 
   // resetDB(Legislators)
 
-  if (Legislators.find().count() === 0) {
-    console.log("populating legislators");
-    populateLegislators()
-  }
-  if (Bills.find().count() === 0) {
-    console.log("populating bills");
-    populateBills(files)
-  }
-  // if (Resolutions.find().count() === 0) {
-  //   populateResolutions(files)
-  // }
+  console.log("Populating bills...");
+  populateBills(files)
+  console.log("Added " + files.length + " bills.");
 
+  // console.log(actSet);
+
+  // save file to desktop
+  // let res = fs.writeFileSync("/Users/xxxx/Desktop/acts.js", JSON.stringify(actSet));
+  console.log(res);
 
 });
