@@ -7,11 +7,11 @@ Meteor.startup(function () {
 
   let actSet = [];
 
-  console.log("Populating legislators...");
-  let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
-  let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
-  let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
-  console.log("Added " + legislatorArray.length + " legislators.");
+  // console.log("Populating legislators...");
+  // let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
+  // let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
+  // let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
+  // console.log("Added " + legislatorArray.length + " legislators.");
 
   // Must bind to the file system environment or it will not work
   var populateBills = Meteor.bindEnvironment(function(files) {
@@ -113,14 +113,14 @@ Meteor.startup(function () {
 
   // resetDB(Legislators)
 
-  console.log("Populating bills...");
-  populateBills(files)
-  console.log("Added " + files.length + " bills.");
+  // console.log("Populating bills...");
+  // populateBills(files)
+  // console.log("Added " + files.length + " bills.");
 
   // console.log(actSet);
 
   // save file to desktop
   // let res = fs.writeFileSync("/Users/xxxx/Desktop/acts.js", JSON.stringify(actSet));
-  console.log(res);
+  // console.log(res);
 
 });

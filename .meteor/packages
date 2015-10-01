@@ -17,9 +17,10 @@ random
 ejson
 check
 ecmascript
-react
 ramda:ramda
 meteorhacks:npm
 
 
 npm-container
+blaze-html-templates
+jquery
