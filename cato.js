@@ -8,8 +8,8 @@ if (Meteor.isClient) {
 
 1. Get Bills
 
-Bills introduced (the last version) //
-  bill:  > attr-key:  > bill-stage: "Placed-on-Calendar-Senate" // not doing this
+XXX Bills introduced (the last version) //
+XXX  bill:  > attr-key:  > bill-stage: "Placed-on-Calendar-Senate" // not doing this
 
 Treat Bills and Resolutions the same way
 

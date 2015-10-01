@@ -24,11 +24,28 @@ Meteor.startup(function () {
         // that have been introduced in the house or senate
         var ihXML = /.+\ih.xml/;
         var isXML = /.+\is.xml/;
-        // Only run this for .json files
+        // Only run this for the proper files
         if (ihXML.test(file) || isXML.test(file)) {
+
+          // function to get the proper value from XML
           var getValues = function(xmlDoc, entity) {
-            console.log(xmlDoc.length);
-            console.log(entity);
+            let valueArray = [];
+            // for each reference in the xml doc...
+            _.each(xmlDoc, function(ref) {
+              if (ref.getAttributeNode('entity-type').nodeValue === entity) {
+                // TODO this should not need to exist. They should all have values
+                if (ref.getAttributeNode('value')) {
+                  // gets rid of all the extra stuff at the end of the common name
+                  // if there isnt a tailing "/", then just return the item
+                  let myRe = /(^.+?)\//
+                  let reArray = myRe.exec(ref.getAttributeNode('value').nodeValue)
+                  // push to the array
+                  valueArray.push(reArray ? reArray[1] : ref.getAttributeNode('value').nodeValue)
+                }
+              }
+            })
+            // return the array of referenced entities
+            return valueArray;
           }
 
 
@@ -42,10 +59,20 @@ Meteor.startup(function () {
           var cosponsors = []
 
           var entityRef = xmlDoc.getElementsByTagName('cato:entity-ref')
-          var acts = getValues(entityRef, 'acts')
-          var federalBodies = []
-          var people = []
-          var committees = []
+
+          var acts = getValues(entityRef, 'act')
+          var federalBodies = getValues(entityRef, 'federal-body')
+          // var people = getValues(entityRef, 'person')
+          // var committees = getValues(entityRef, 'committee')
+          // var uscodes = getValues(entityRef, 'uscode')
+          // var publicLaws = getValues(entityRef, 'public-law')
+          // var statutesAtLarge = getValues(entityRef, 'statute-at-large')
+          // var billsByNumber = getValues(entityRef, 'bills-by-number')
+
+          // take only acts that reference other acts
+          if (acts.length) {
+            console.log(sponsor, acts);
+          }
 
 
 
