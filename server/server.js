@@ -71,7 +71,12 @@ Meteor.startup(function () {
 
           // take only acts that reference other acts
           if (acts.length) {
-            console.log(sponsor, acts);
+            let test = Legislators.find({"id.bioguide": sponsor}).fetch()[0]
+            if (test === undefined) {
+              console.log(file);
+            }
+            // console.log(test.name.official_full);
+            // console.log(sponsor, acts);
           }
 
 
