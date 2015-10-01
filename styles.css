@@ -2,11 +2,6 @@
   background-color: #aaa;
 }
 
-.background {
-  /*background-color: #eee;*/
-  /*border: 1px solid black;*/
-}
-
 .node:hover {
   opacity: 0.6;
   cursor: pointer;
