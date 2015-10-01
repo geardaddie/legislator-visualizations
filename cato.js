@@ -24,7 +24,7 @@ if (Meteor.isClient) {
       .attr("class", "center-line")
 
 
-    d3.json('acts.json', function(err, acts) {
+    d3.json('federalBodies.json', function(err, acts) {
       if (err) {throw err};
       // console.log(acts);
 
@@ -37,11 +37,11 @@ if (Meteor.isClient) {
             var percentD = d.Democrat / sum
             var scaled = d3.scale.linear()
               .domain([0, 1])
-              .range([50, width - 50])
+              .range([100, width - 100])
             return scaled(percentD) + "px"
           },
           cy: height / 2 + "px",
-          r: function(d) { return d.Republican + d.Democrat},
+          r: function(d) { return (d.Republican + d.Democrat)/2},
           class: 'node'
         })
         .style({
