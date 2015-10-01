@@ -1,0 +1,3952 @@
+[
+  {
+    "act": "Civil Rights Act of 1964",
+    "Republican": 3,
+    "Democrat": 9
+  },
+  {
+    "act": "Gulf of Tonkin Resolution",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "War Powers Resolution",
+    "Republican": 7,
+    "Democrat": 13
+  },
+  {
+    "act": "Authorization for Use of Military Force Against Iraq Resolution of 2002",
+    "Republican": 1,
+    "Democrat": 3
+  },
+  {
+    "act": "Authorization for Use of Military Force",
+    "Republican": 1,
+    "Democrat": 3
+  },
+  {
+    "act": "Voting Rights Act of 1965",
+    "Republican": 0,
+    "Democrat": 24
+  },
+  {
+    "act": "Continuing Appropriations Resolution, 2015",
+    "Republican": 6,
+    "Democrat": 1
+  },
+  {
+    "act": "Making consolidated appropriations for the fiscal year ending September 30, 2015, and for other purposes.",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Civil Rights Acts of 1957",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Civil Rights Act of 1960",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Fannie Lou Hamer, Rosa Parks, Coretta Scott King, CeØAE1sar E. ChaØAE1vez, Barbara C. Jordan, William C. VelaØAE1squez, and Dr. Hector P. Garcia Voting Rights Act Reauthorization and Amendments Act of 2006",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Fair Sentencing Act of 2010",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "National Wildlife Refuge System Administration Act of 1966",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "National Wildlife Refuge System Improvement Act of 1997",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "White Slave Traffic Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Mann Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Senate Concurrent Resolution 29",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Fair Labor Standards Act of 1938",
+    "Republican": 25,
+    "Democrat": 55
+  },
+  {
+    "act": "Equal Pay Act of 1963",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Hunger Prevention Act of 1988",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "African Famine Relief and Recovery Act of 1985",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Orphan Drug Act of 1983",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Organic Act of 1936",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Revised Organic Act of 1954",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Patient Protection and Affordable Care Act",
+    "Republican": 58,
+    "Democrat": 21
+  },
+  {
+    "act": "Taiwan Relations Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "Jerusalem Embassy Act of 1995",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Foreign Relations Authorization Act, Fiscal Year 2003",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Internal Revenue Code of 1986",
+    "Republican": 338,
+    "Democrat": 571
+  },
+  {
+    "act": "113 HJRES 62",
+    "Republican": 9,
+    "Democrat": 0
+  },
+  {
+    "act": "Consolidated and Further Continuing Appropriations Act, 2013",
+    "Republican": 53,
+    "Democrat": 2
+  },
+  {
+    "act": "Health Care and Education Reconciliation Act of 2010",
+    "Republican": 11,
+    "Democrat": 1
+  },
+  {
+    "act": "Balanced Budget and Emergency Deficit Control Act of 1985",
+    "Republican": 64,
+    "Democrat": 12
+  },
+  {
+    "act": "113hconres5ih",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 3223",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Joshua Omvig Veterans Suicide Prevention Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Joshua Omvig Veteran Suicide Prevention Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Architectural Barriers Act of 1968",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Americans with Disabilities Act of 1990",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Architectural Barriers Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Americans with Disabilities Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 3547",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Economic Recovery Act of 1948",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Foreign Assistance Act of 1961",
+    "Republican": 1,
+    "Democrat": 6
+  },
+  {
+    "act": "Fair Housing Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Smith-Lever Act",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "National Agricultural Research, Extension, and Teaching Policy Act of 1977",
+    "Republican": 3,
+    "Democrat": 3
+  },
+  {
+    "act": "Higher Education Act of 1965",
+    "Republican": 6,
+    "Democrat": 134
+  },
+  {
+    "act": "Equity in Educational Land-Grant Status Act of 1994",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Defense Authorization Act for Fiscal Year 2008",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Continuing Appropriations Act, 2011",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Full-Year Continuing Appropriations Resolution, 2014",
+    "Republican": 0,
+    "Democrat": 31
+  },
+  {
+    "act": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2013",
+    "Republican": 10,
+    "Democrat": 2
+  },
+  {
+    "act": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2013",
+    "Republican": 7,
+    "Democrat": 1
+  },
+  {
+    "act": "Department of Defense Appropriations Act, 2013",
+    "Republican": 8,
+    "Democrat": 1
+  },
+  {
+    "act": "Department of Homeland Security Appropriations Act, 2013",
+    "Republican": 8,
+    "Democrat": 1
+  },
+  {
+    "act": "Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2013",
+    "Republican": 5,
+    "Democrat": 1
+  },
+  {
+    "act": "Full-Year Continuing Appropriations Act, 2013",
+    "Republican": 14,
+    "Democrat": 1
+  },
+  {
+    "act": "Continuing Appropriations Act, 2014",
+    "Republican": 3,
+    "Democrat": 1
+  },
+  {
+    "act": "State Department Basic Authorities Act of 1956",
+    "Republican": 7,
+    "Democrat": 1
+  },
+  {
+    "act": "Foreign Relations Authorization Act, Fiscal Years 1994 and 1995",
+    "Republican": 7,
+    "Democrat": 1
+  },
+  {
+    "act": "National Security Act of 1947",
+    "Republican": 8,
+    "Democrat": 1
+  },
+  {
+    "act": "Food and Nutrition Act of 2008",
+    "Republican": 16,
+    "Democrat": 35
+  },
+  {
+    "act": "Federal Mine Safety and Health Act of 1977",
+    "Republican": 0,
+    "Democrat": 193
+  },
+  {
+    "act": "Social Security Act",
+    "Republican": 653,
+    "Democrat": 477
+  },
+  {
+    "act": "Food for Peace Act",
+    "Republican": 5,
+    "Democrat": 2
+  },
+  {
+    "act": "National Defense Authorization Act for Fiscal Year 2012",
+    "Republican": 10,
+    "Democrat": 3
+  },
+  {
+    "act": "Universal Service Anti-deficiency Temporary Suspension Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Homeland Security Act of 2002",
+    "Republican": 8,
+    "Democrat": 19
+  },
+  {
+    "act": "Federal Lands Recreation Enhancement Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "Department of the Interior and Related Agencies Appropriations Act, 1999",
+    "Republican": 9,
+    "Democrat": 1
+  },
+  {
+    "act": "Department of Defense Appropriations Act, 2000",
+    "Republican": 2,
+    "Democrat": 1
+  },
+  {
+    "act": "Public Health Service Act",
+    "Republican": 72,
+    "Democrat": 294
+  },
+  {
+    "act": "Revised Statutes",
+    "Republican": 3,
+    "Democrat": 2
+  },
+  {
+    "act": "113 HJRES 104",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HJRES 110",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Revised Statutes of the United States",
+    "Republican": 1,
+    "Democrat": 3
+  },
+  {
+    "act": "Authorization for the Use of Military Force Against the Islamic State of Iraq and the Levant (ISIL)",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Commerce, Justice, Science, and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Department of Defense Appropriations Act, 2014",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Energy and Water Development and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Financial Services and General Government Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Department of Homeland Security Appropriations Act, 2014",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Interior, Environment, and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Legislative Branch Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2014",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Department of State, Foreign Operations, and Related Programs Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Defense Authorization Act for Fiscal Year 1991",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Defense Authorization Act for Fiscal Year 2006",
+    "Republican": 1,
+    "Democrat": 4
+  },
+  {
+    "act": "Fiscal Year 2015 Budget Request Act of 2014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Small Business Act",
+    "Republican": 1,
+    "Democrat": 14
+  },
+  {
+    "act": "Internet Tax Freedom Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Continuing Appropriations Resolution, 2014",
+    "Republican": 166,
+    "Democrat": 0
+  },
+  {
+    "act": "Head Start Act",
+    "Republican": 2,
+    "Democrat": 3
+  },
+  {
+    "act": "Workforce Innovation and Opportunity Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "International Religious Freedom Act of 1998",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Export-Import Bank Act of 1945",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Authorization for Use of Military Force Against ISIL Resolution",
+    "Republican": 0,
+    "Democrat": 17
+  },
+  {
+    "act": "War Powers Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "92 HJRES 208",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Burmese Freedom and Democracy Act of 2003",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "113 HJRES 54",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Continuing Appropriations Resolution, 2013",
+    "Republican": 10,
+    "Democrat": 0
+  },
+  {
+    "act": "Disaster Relief Appropriations Act, 2013",
+    "Republican": 27,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 2786",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "War Powers Amendments of 2013",
+    "Republican": 0,
+    "Democrat": 40
+  },
+  {
+    "act": "Syria Accountability and Lebanese Sovereignty Restoration Act of 2003",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Stability, Security, and Fairness Resolution of 2013",
+    "Republican": 20,
+    "Democrat": 0
+  },
+  {
+    "act": "Food Stamp Act of 1977",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Balanced Budget and Emergency Deficit Control Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Affordable Care Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HJRES 68",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Special Supplemental Nutrition Program for Women, Infants, and Children Continuing Appropriations Resolution, 2014",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Pay Our Military Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "National Nuclear Security Administration Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Food and Drug Administration Continuing Appropriations Resolution, 2014",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "National Intelligence Program Operations Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Border Security and Enforcement Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Bureau of Indian Affairs, Bureau of Indian Education, and Indian Health Service Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HJRES 81",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "National Weather Service Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Impact Aid Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Head Start Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Emergency Management Agency Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Military Construction and Veterans Affairs, and Related Agencies Appropriations Act, 2012",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Consumer Product Safety Commission Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "National Highway Traffic Safety Administration Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "United States Service Academies Continuing Appropriations Resolution, 2014",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Further Continuing Appropriations Act, 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Flight Safety Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Honoring the Families of Fallen Soldiers Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Open Public Health to Support Americans Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2012",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Consolidated Appropriations Act, 2012",
+    "Republican": 2,
+    "Democrat": 1
+  },
+  {
+    "act": "Mine Safety and Health Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Science Appropriations Act, 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HJRES 94",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Nuclear Regulatory Commission Continuing Appropriations Resolution, 2014",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Energy and Water Development and Related Agencies Appropriations Act, 2012",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HJRES 96",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Full Employment and Balanced Growth Act of 1978",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Employment Act of 1946",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Humphrey Hawkins 21st Century Full Employment and Training Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Housing and Community Development Act",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Humphrey-Hawkins Full Employment and Training Act",
+    "Republican": 0,
+    "Democrat": 39
+  },
+  {
+    "act": "Workforce Investment Act of 1998",
+    "Republican": 0,
+    "Democrat": 54
+  },
+  {
+    "act": "Housing and Community Development Act of 1974",
+    "Republican": 9,
+    "Democrat": 5
+  },
+  {
+    "act": "Housing Act of 1937",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Fair Credit Reporting Act",
+    "Republican": 0,
+    "Democrat": 48
+  },
+  {
+    "act": "Commodity Exchange Act",
+    "Republican": 19,
+    "Democrat": 0
+  },
+  {
+    "act": "Sacramento-San Joaquin Delta National Heritage Area Establishment Act",
+    "Republican": 0,
+    "Democrat": 14
+  },
+  {
+    "act": "Elementary and Secondary Education Act of 1965",
+    "Republican": 5,
+    "Democrat": 52
+  },
+  {
+    "act": "Rehabilitation Act of 1973",
+    "Republican": 4,
+    "Democrat": 6
+  },
+  {
+    "act": "Special Olympics Sport and Empowerment Act of 2004",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Eunice Kennedy Shriver Act",
+    "Republican": 0,
+    "Democrat": 17
+  },
+  {
+    "act": "Employee Retirement Income Security Act of 1974",
+    "Republican": 5,
+    "Democrat": 54
+  },
+  {
+    "act": "Railway Labor Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Fair Minimum Wage Act of 2013",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "113 HR 1011",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Food, Drug, and Cosmetic Act",
+    "Republican": 163,
+    "Democrat": 226
+  },
+  {
+    "act": "FDA Food Safety Modernization Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Safety and Fraud Enforcement for Seafood Act",
+    "Republican": 0,
+    "Democrat": 22
+  },
+  {
+    "act": "Magnuson-Stevens Fishery Conservation and Management Act",
+    "Republican": 9,
+    "Democrat": 3
+  },
+  {
+    "act": "Lacey Act Amendments of 1981",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Fair Packaging and Labeling Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Agricultural Marketing Act of 1946",
+    "Republican": 2,
+    "Democrat": 1
+  },
+  {
+    "act": "Discretionary Spending Reduction Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1014",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Huntington's Disease Parity Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "American Land Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Election Campaign Act of 1971",
+    "Republican": 3,
+    "Democrat": 57
+  },
+  {
+    "act": "National Voter Registration Act of 1993",
+    "Republican": 8,
+    "Democrat": 86
+  },
+  {
+    "act": "Help America Vote Act of 2002",
+    "Republican": 17,
+    "Democrat": 320
+  },
+  {
+    "act": "Health Insurance Rate Review Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Truth in Lending Act",
+    "Republican": 14,
+    "Democrat": 25
+  },
+  {
+    "act": "Omnibus Budget Reconciliation Act of 1981",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Home Foreclosure Reduction Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Tariff Act of 1930",
+    "Republican": 98,
+    "Democrat": 16
+  },
+  {
+    "act": "LAND Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Securing Energy Critical Elements and American Jobs Act of 2013",
+    "Republican": 0,
+    "Democrat": 11
+  },
+  {
+    "act": "National Materials and Minerals Policy, Research and Development Act of 1980",
+    "Republican": 0,
+    "Democrat": 17
+  },
+  {
+    "act": "Energy Policy Act of 2005",
+    "Republican": 2,
+    "Democrat": 7
+  },
+  {
+    "act": "National Critical Materials Act of 1984",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Immigration and Nationality Act",
+    "Republican": 95,
+    "Democrat": 322
+  },
+  {
+    "act": "113 HR 1023",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Berryessa Snow Mountain National Conservation Area Act",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Federal Land Policy and Management Act of 1976",
+    "Republican": 9,
+    "Democrat": 4
+  },
+  {
+    "act": "Wilderness Act",
+    "Republican": 0,
+    "Democrat": 16
+  },
+  {
+    "act": "Reclamation Act of 1902",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Advisory Committee Act",
+    "Republican": 0,
+    "Democrat": 72
+  },
+  {
+    "act": "Advanced Vehicle Technology Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "National Housing Act",
+    "Republican": 0,
+    "Democrat": 49
+  },
+  {
+    "act": "Rehab and Ahmed Amer Foster Care Improvement Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Consumer Price Index for Elderly Consumers Act of 2013",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Making College Affordable Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Omnibus Public Land Management Act of 2009",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "American Battlefield Protection Program Amendments Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "San Juan Islands National Conservation Area Act",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "Endangered Species Act of 1973",
+    "Republican": 37,
+    "Democrat": 1
+  },
+  {
+    "act": "American Indian Religious Freedom Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "113 HR 1035",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Flood Disaster Protection Act of 1973",
+    "Republican": 12,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1036",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1039",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Congressional Budget Act of 1974",
+    "Republican": 21,
+    "Democrat": 2
+  },
+  {
+    "act": "Flat Tax Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Providing Resources Early for Kids Act of 2013",
+    "Republican": 0,
+    "Democrat": 26
+  },
+  {
+    "act": "113 HR 1042",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1043",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1044",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1045",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1046",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1047",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1048",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1049",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1050",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1051",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1052",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1053",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1054",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1055",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1056",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "115 HR 1057",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1058",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1059",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1060",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1061",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Securities Exchange Act of 1934",
+    "Republican": 12,
+    "Democrat": 33
+  },
+  {
+    "act": "Securities Act of 1933",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Investment Advisers Act of 1940",
+    "Republican": 3,
+    "Democrat": 1
+  },
+  {
+    "act": "Investment Company Act of 1940",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "SEC Regulatory Accountability Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Sarbanes-Oxley Act of 2002",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Paperwork Reduction Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "National Strategic and Critical Minerals Policy Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "National Defense Appropriations Act for Fiscal Year 2011",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Mining and Minerals Policy Act of 1970",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Gramm-Leach-Bliley Act",
+    "Republican": 94,
+    "Democrat": 9
+  },
+  {
+    "act": "National Association of Registered Agents and Brokers Reform Act of 2013",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Administrative Procedure Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "District of Columbia Nonprofit Corporation Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Controlled Substances Act",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "TANF Substance Abuse Prevention Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Removing Barriers to Colorectal Cancer Screening Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Baseball Hall of Fame Commemorative Coin Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Activities Inventory Reform Act of 1998",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Freedom from Government Competition Act of 2013",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Activities Inventory Reform Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Nuclear Terrorism Conventions Implementation and Safety of Maritime Navigation Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Real Estate Settlement Procedures Act of 1974",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Employee Accountability Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Sikes Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "President's Salary SUBMIT Act",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "FAA Modernization and Reform Act of 2012",
+    "Republican": 5,
+    "Democrat": 36
+  },
+  {
+    "act": "113 HR 1084",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Liberian Refugee Immigration Fairness Act of 2013",
+    "Republican": 0,
+    "Democrat": 14
+  },
+  {
+    "act": "Cheating Doesn't Pay Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "MAP-21",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Department of Education Organization Act",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Stepping Up to STEM Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Educational Technical Assistance Act of 2002",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Education Sciences Reform Act of 2002",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Legislative Reorganization Act of 1946",
+    "Republican": 8,
+    "Democrat": 11
+  },
+  {
+    "act": "Elementary Educator STEM Content Coach Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "113 HR 1092",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Department of Homeland Security Appropriations Act, 2005",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1099",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "petition",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Mental Health on Campus Improvement Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Budget Control Act of 2011",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Homeowners and Taxpayers Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 84
+  },
+  {
+    "act": "Medicare Prescription Drug Price Negotiation Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Alaska Native Claims Settlement Act",
+    "Republican": 11,
+    "Democrat": 7
+  },
+  {
+    "act": "Alaska National Interest Lands Conservation Act",
+    "Republican": 2,
+    "Democrat": 4
+  },
+  {
+    "act": "Indian Tribal Judgment Funds Use or Distribution Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Advisory Committee Act Amendments of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Trade Act of 1974",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Small Business Investment Act of 1958",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "Solar Energy Deployment Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Cross-Border Trade Enhancement Act of 2013",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "113 HR 110",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Tsunami Warning and Education Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Tsunami Forecasting and Warning Improvement Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Clayton Act",
+    "Republican": 2,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Trade Commission Act",
+    "Republican": 4,
+    "Democrat": 12
+  },
+  {
+    "act": "Lobbying Disclosure Act of 1995",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Reserve Act",
+    "Republican": 19,
+    "Democrat": 15
+  },
+  {
+    "act": "Bailouts Are Not For Sale Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Bank Holding Company Act of 1956",
+    "Republican": 0,
+    "Democrat": 23
+  },
+  {
+    "act": "Filipino Veterans of World War II Congressional Gold Medal Act",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "National Labor Relations Act",
+    "Republican": 7,
+    "Democrat": 1
+  },
+  {
+    "act": "Preventing Greater Uncertainty in Labor-Management Relations Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Cyber Privacy Fortification Act of 2013",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "General Education Provisions Act",
+    "Republican": 1,
+    "Democrat": 7
+  },
+  {
+    "act": "Unlocking Consumer Choice and Wireless Competition Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "TIGER Grants for Job Creation Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Dwight D. Eisenhower Memorial Completion Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Rebuild American Manufacturing Act of 2013",
+    "Republican": 0,
+    "Democrat": 9
+  },
+  {
+    "act": "Protecting U.S. Missile Defense Information Act of 2013",
+    "Republican": 11,
+    "Democrat": 0
+  },
+  {
+    "act": "Mobile Workforce State Income Tax Simplification Act of 2013",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Community Services Block Grant Act",
+    "Republican": 1,
+    "Democrat": 3
+  },
+  {
+    "act": "METRICS Act",
+    "Republican": 0,
+    "Democrat": 21
+  },
+  {
+    "act": "American Recovery and Reinvestment Act of 2009",
+    "Republican": 1,
+    "Democrat": 31
+  },
+  {
+    "act": "Full-Year Continuing Appropriations Act, 2011",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Carl D. Perkins Career and Technical Education Act of 2006",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Individuals with Disabilities Education Act",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Stevenson-Wydler Technology Innovation Act of 1980",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "113 HR 1131",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Presidential Library Donation Reform Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1134",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "National Defense Authorization Act of Fiscal Year 2008",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Dodd-Frank Wall Street Reform and Consumer Protection Act",
+    "Republican": 13,
+    "Democrat": 5
+  },
+  {
+    "act": "15 U.S.C. 781 note",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Hate Crime Statistics Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Neotropical Migratory Bird Conservation Act",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "North American Wetlands Conservation Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Joint Ventures for Bird Habitat Conservation Act of 2013",
+    "Republican": 0,
+    "Democrat": 15
+  },
+  {
+    "act": "Indian Self-Determination and Education Assistance Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Migratory Bird Treaty Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Migratory Bird Conservation Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Fish and Wildlife Conservation Act of 1980",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Partners for Fish and Wildlife Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Small Business Clean Energy Financing Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1142",
+    "Republican": 10,
+    "Democrat": 0
+  },
+  {
+    "act": "Recreation and Public Purposes Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Law Enforcement Officers Safety Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Law Enforcement Officers Safety Act Improvements Act of 2010",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Alabama-Coushatta Tribes of Texas Restoration Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Alabama-Coushatta Tribe of Texas Equal and Fair Opportunity Settlement Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "FHA Emergency Fiscal Solvency Act of 2013",
+    "Republican": 0,
+    "Democrat": 15
+  },
+  {
+    "act": "Department of Housing and Urban Development Act",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Mammography Quality Standards Act of 1992",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Consistency, Accuracy, Responsibility, and Excellence in Medical Imaging and Radiation Therapy Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "WAVE4 Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Public Health Threats and Emergencies Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "River and Harbor Act of 1910",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "River and Harbor Act of 1927",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Mississippi River Navigation Sustainment Act",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Water Infrastructure Now Public-Private Partnership Act",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "Clean Air Act",
+    "Republican": 26,
+    "Democrat": 9
+  },
+  {
+    "act": "BREATHE Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "NAIC Producer Licensing Model Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Washington Park Wilderness Act of 1988",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "North Cascades National Park Service Complex Fish Stocking Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Cabin Free Act of 2013",
+    "Republican": 12,
+    "Democrat": 0
+  },
+  {
+    "act": "Forest and Rangeland Renewable Resources Planning Act of 1974",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Occupancy Permits Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Cabin User Fee Fairness Act of 2000",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "School Building Enhancement Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Water Resources Development Act of 1986",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "DREDGE Act of 2013",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "Government Accountability Office Improvement Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Hart-Scott-Rodino Antitrust Improvements Act of 1976",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Institute of Standards and Technology Act",
+    "Republican": 11,
+    "Democrat": 10
+  },
+  {
+    "act": "Chief Financial Officers Act of 1990",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Financial Management Improvement Act of 1996",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Cyber Security Research and Development Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Information Security Amendments Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Outer Continental Shelf Lands Act",
+    "Republican": 24,
+    "Democrat": 2
+  },
+  {
+    "act": "MORE Act of 2013",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "Gulf of Mexico Energy Security Act of 2006",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1166",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Restoring Storey County Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "National Environmental Policy Act of 1969",
+    "Republican": 19,
+    "Democrat": 2
+  },
+  {
+    "act": "National Historic Preservation Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1168",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Naval Air Station Fallon Housing and Safety Development Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Medical Checklist Act of 2013",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "113 HR 1170",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Comprehensive Environmental Response, Compensation, and Liability Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Historical Preservation Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Native American Graves Protection and Repatriation Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "Canal Act of 1890",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Personalize Your Care Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Assisted Suicide Funding Restriction Act of 1997",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Sound Dollar Act of 2013",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "Emergency Economic Stabilization Act of 2008",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "International Financial Institutions Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Special Drawing Rights Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Bretton Woods Agreements Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Support for East European Democracy (SEED) Act of 1989",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Home Owners' Loan Act of 1933",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Consumer Financial Protection Act of 2010",
+    "Republican": 17,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Water Pollution Control Act",
+    "Republican": 31,
+    "Democrat": 6
+  },
+  {
+    "act": "FRESHER Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Centennial Monetary Commission Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Improving Access to Medicare Coverage Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Resident Physician Shortage Reduction Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "113 HR 1186",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Northern Rockies Ecosystem Protection Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Freedom of Information Act",
+    "Republican": 1,
+    "Democrat": 2
+  },
+  {
+    "act": "Wild and Scenic Rivers Act",
+    "Republican": 0,
+    "Democrat": 13
+  },
+  {
+    "act": "Preserving Our Hometown Independent Pharmacies Act of 2013",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Natural Gas Act",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "International Emergency Economic Powers Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Trading with the Enemy Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Energy Policy and Conservation Act (42 U.S.C. 6271 et seq.)",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Energy Policy and Conservation Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Energy Independence and Security Act of 2007",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Mineral Leasing Act",
+    "Republican": 4,
+    "Democrat": 4
+  },
+  {
+    "act": "Keep America's Oil Here Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Keep American Natural Gas Here Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Yosemite Grant",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1192",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "United States Housing Act of 1937",
+    "Republican": 11,
+    "Democrat": 36
+  },
+  {
+    "act": "Protect Our Schools from Tax Delinquents Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Flood Insurance Act of 1968",
+    "Republican": 64,
+    "Democrat": 0
+  },
+  {
+    "act": "National Flood Insurance Program Termination Act of 2013",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Biggert-Waters Flood Insurance Reform Act of 2012",
+    "Republican": 48,
+    "Democrat": 0
+  },
+  {
+    "act": "Bunning-Bereuter-Blumenauer Flood Insurance Reform Act of 2004",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "National Flood Insurance Reform Act of 1994",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Flood Insurance Act of 1956",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "International Conservation Corps Act of 2013",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "District of Columbia Home Rule Act",
+    "Republican": 0,
+    "Democrat": 16
+  },
+  {
+    "act": "113 HR 1197",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Omnibus Crime Control and Safe Streets Act of 1968",
+    "Republican": 0,
+    "Democrat": 129
+  },
+  {
+    "act": "Education Amendments of 1972",
+    "Republican": 2,
+    "Democrat": 2
+  },
+  {
+    "act": "Violence Against Women Act of 1994",
+    "Republican": 0,
+    "Democrat": 184
+  },
+  {
+    "act": "Violence Against Women Act of 2000",
+    "Republican": 0,
+    "Democrat": 16
+  },
+  {
+    "act": "Violence Against Women and Department of Justice Reauthorization Act of 2005",
+    "Republican": 0,
+    "Democrat": 49
+  },
+  {
+    "act": "Trafficking Victims Protection Act of 2000",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Violence Against Women Reauthorization Act of 2013",
+    "Republican": 0,
+    "Democrat": 50
+  },
+  {
+    "act": "Family Violence Prevention and Services Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Victims of Crime Act of 1984",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Victims of Trafficking and Violence Protection Act of 2000",
+    "Republican": 0,
+    "Democrat": 15
+  },
+  {
+    "act": "Crime Control Act of 1990",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "Defense Dependents’ Education Act of 1978",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Defense Dependents' Education Act of 1978",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Economic Opportunity Act of 1964",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Housing Act of 1959",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Cranston-Gonzalez National Affordable Housing Act",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "McKinney-Vento Homeless Assistance Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Housing Act of 1949",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Personal Responsibility and Work Opportunity Reconciliation Act of 1996",
+    "Republican": 1,
+    "Democrat": 5
+  },
+  {
+    "act": "International Marriage Broker Regulation Act of 2005",
+    "Republican": 0,
+    "Democrat": 42
+  },
+  {
+    "act": "Consolidated Natural Resources Act of 2008",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Illegal Immigration Reform and Immigrant Responsibility Act of 1996",
+    "Republican": 14,
+    "Democrat": 7
+  },
+  {
+    "act": "Illegal Immigration Reform and Immigrant Responsibility Act of 1986",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Indian Civil Rights Act of 1968",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Indian Law Enforcement Reform Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Consolidated Appropriations Act, 2004",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "DNA Analysis Backlog Elimination Act of 2000",
+    "Republican": 0,
+    "Democrat": 44
+  },
+  {
+    "act": "DNA Identification Act of 1994",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "DNA Analysis Backlog Act of 2000",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Civil Rights of Institutionalized Persons Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Prison Rape Elimination Act of 2003",
+    "Republican": 0,
+    "Democrat": 11
+  },
+  {
+    "act": "Communications Act of 1934",
+    "Republican": 0,
+    "Democrat": 25
+  },
+  {
+    "act": "Victims of Child Abuse Act of 1990",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "American Health Security Act of 2013",
+    "Republican": 0,
+    "Democrat": 234
+  },
+  {
+    "act": "Inspector General Act of 1978",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Health Insurance Portability and Accountability Act of 1996",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Training Tomorrow’s Doctors Today Act",
+    "Republican": 14,
+    "Democrat": 0
+  },
+  {
+    "act": "Congressional Budget and Impoundment Control Act of 1974",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Duck Stamp Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Permanent Electronic Duck Stamp Act of 2013",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1207",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Manhattan Project National Historical Park Study Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Manhattan Project National Historical Park Act",
+    "Republican": 16,
+    "Democrat": 0
+  },
+  {
+    "act": "National Park System Organic Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Historic Sites Act of 1935",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "National Park Service General Authorities Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1209",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Create Jobs by Expanding the R&D Tax Credit Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "FOIA Oversight and Implementation Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Common Sense Housing Investment Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Housing Enterprises Financial Safety and Soundness Act of 1992",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "HOME Investment Partnerships Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Solid Waste Disposal Act",
+    "Republican": 28,
+    "Democrat": 0
+  },
+  {
+    "act": "Domestic Fuels Protection Act of 2013",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "Energy Policy Act of 1992",
+    "Republican": 1,
+    "Democrat": 3
+  },
+  {
+    "act": "113 HR 1216",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Smithsonian American Latino Museum Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Gulf Fisheries Fairness Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Basel III Capital Impact Study Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "International Lending Supervision Act of 1983",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Compact of Free Association Act of 1985",
+    "Republican": 0,
+    "Democrat": 9
+  },
+  {
+    "act": "Compact-Impact Aid Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Servicemembers Civil Relief Act",
+    "Republican": 6,
+    "Democrat": 2
+  },
+  {
+    "act": "Father Mychal Judge, O.F.M., Congressional Gold Medal Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Samish Indian Nation Homelands Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Indian Gaming Regulatory Act",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1228",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Security and Financial Empowerment Act",
+    "Republican": 0,
+    "Democrat": 24
+  },
+  {
+    "act": "Violence Against Women Act",
+    "Republican": 0,
+    "Democrat": 107
+  },
+  {
+    "act": "Family and Medical Leave Act of 1993",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Rehabilitation Act Amendments of 1986",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Information Technology Acquisition Reform Act",
+    "Republican": 33,
+    "Democrat": 0
+  },
+  {
+    "act": "E-Government Act of 2002",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Presidential and Federal Records Act Amendments of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Electronic Message Preservation Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Power Act",
+    "Republican": 10,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1237",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "True Cost of War Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Accessing Medicare Therapies Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Water Advanced Technologies for Efficient Resource Use Act of 2013",
+    "Republican": 0,
+    "Democrat": 13
+  },
+  {
+    "act": "National Energy Conservation Policy Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Small Business Jobs Act of 2010",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "CREED Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1241",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Sisk Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Richard B. Russell National School Lunch Act",
+    "Republican": 18,
+    "Democrat": 16
+  },
+  {
+    "act": "Innovation Inspiration School Grant Program Act",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Flight School Security Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Federal Crop Insurance Act",
+    "Republican": 0,
+    "Democrat": 58
+  },
+  {
+    "act": "Federal Food, Drug and Cosmetic Act",
+    "Republican": 9,
+    "Democrat": 0
+  },
+  {
+    "act": "113hr124ih",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "Medicare Audit Improvement Act of 2013",
+    "Republican": 32,
+    "Democrat": 0
+  },
+  {
+    "act": "Veteran Excellence Through Education Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Fair Labor Standards Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Home Construction Lending Regulatory Improvement Act of 2013",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Deposit Insurance Act",
+    "Republican": 1,
+    "Democrat": 17
+  },
+  {
+    "act": "Swap Jurisdiction Certainty Act",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Adult Education and Family Literacy Act",
+    "Republican": 0,
+    "Democrat": 44
+  },
+  {
+    "act": "Strengthen and Unite Communities with Civics Education and English Development Act of 2013",
+    "Republican": 0,
+    "Democrat": 27
+  },
+  {
+    "act": "Coltsville National Historical Park Act",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "National Park Service Organic Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Congressional Oversight of Afghanistan Agreements Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "San Juan County Federal Land Conveyance Act",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Check Clearing for the 21st Century Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Overdraft Protection Act of 2012",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Credit Union Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Electronic Fund Transfer Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Overdraft Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Foreign Intelligence Surveillance Act of 1978",
+    "Republican": 4,
+    "Democrat": 1
+  },
+  {
+    "act": "Drone Aircraft Privacy and Transparency Act of 2013",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "Excellence in Mental Health Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Community Renewal Tax Relief Act of 2000",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "District of Columbia Medicaid Reimbursement Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1265",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Budget Enforcement Act of 1990",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Flood Insurance Premium Relief Act of 2013",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "National Flood Insurance Act of 1968, the Flood Disaster Protection Act of 1973",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Robert T. Stafford Disaster Relief and Emergency Assistance Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Flood Insurance Act of 1969",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Flood Mitigation Expense Relief Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Life, Liberty, and Justice for All Americans Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Statutory Pay-As-You-Go Act of 2010",
+    "Republican": 8,
+    "Democrat": 1
+  },
+  {
+    "act": "House Budget Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Honest Budget Act of 2013",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "Congressional Budget Act of 1990",
+    "Republican": 12,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Financing Bank Act of 1973",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "American Competitiveness and Workforce Improvement Act of 1998",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Maple Tapping Access Program Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Farm Security and Rural Investment Act of 2002",
+    "Republican": 0,
+    "Democrat": 29
+  },
+  {
+    "act": "Rural Energy Improvement Act",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Access to Quality Diabetes Education Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Social Security Guarantee Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Currency Reform for Fair Trade Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "North American Free Trade Agreement Implementation Act of 1993",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal-State Extended Unemployment Compensation Act of 1970",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Trademark Act of 1946",
+    "Republican": 0,
+    "Democrat": 16
+  },
+  {
+    "act": "Lanham Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Newborn Screening Saves Lives Reauthorization Act of 2013",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "Newborn Screening Saves Lives Act of 2008",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Residential Lead-Based Paint Hazard Reduction Act of 1992",
+    "Republican": 0,
+    "Democrat": 55
+  },
+  {
+    "act": "Child Nutrition Act of 1966",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Energy Conservation and Production Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federally Recognized Indian Tribe List Act of 1994",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1285",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Healthy Families Act",
+    "Republican": 0,
+    "Democrat": 107
+  },
+  {
+    "act": "Government Employee Rights Act of 1991",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Congressional Accountability Act of 1995",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "Labor Management Relations Act, 1947",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Sound Science Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Merchant Marine Act, 1936",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Social Security Act Amendments of 1939",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Neutrality Act of 1939",
+    "Republican": 0,
+    "Democrat": 4
+  },
+  {
+    "act": "GI Bill Improvement Act of 1977",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Veterans Programs Enhancement Act of 1998",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "World War II Merchant Mariner Service Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "New IDEA Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Self-Sufficient Community Lands Act",
+    "Republican": 13,
+    "Democrat": 0
+  },
+  {
+    "act": "Bankhead-Jones Farm Tenant Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Secure Rural Schools and Community Self-Determination Act of 2000",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Act of May 23, 1908",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Weeks Law",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Medical Device Tax Elimination Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Consolidated Farm and Rural Development Act",
+    "Republican": 0,
+    "Democrat": 69
+  },
+  {
+    "act": "Export Apple Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "White Sands Missile Range Security Enhancement Act",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Return to Prudent Banking Act of 2013",
+    "Republican": 0,
+    "Democrat": 14
+  },
+  {
+    "act": "Banking Act of 1933",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "International Banking Act of 1978",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Uniformed and Overseas Citizens Absentee Voting Act",
+    "Republican": 0,
+    "Democrat": 25
+  },
+  {
+    "act": "Voting Accessibility for the Elderly and Handicapped Act",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Voter Registration Modernization Act of 2013",
+    "Republican": 0,
+    "Democrat": 74
+  },
+  {
+    "act": "America COMPETES Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Sentencing Act of 1987",
+    "Republican": 1,
+    "Democrat": 1
+  },
+  {
+    "act": "National Voter Registration Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Help America Vote Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Voter Confidence and Increased Accessibility Act of 2013",
+    "Republican": 0,
+    "Democrat": 24
+  },
+  {
+    "act": "Voter Empowerment Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Military and Overseas Voter Empowerment Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Fish and Wildlife Act of 1956",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Inspiring Scientific Research and Innovation Supplemental Appropriations Act, 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Arms Export Control Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "112 HR 1302",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Flexibility to Farm Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Food, Conservation, and Energy Act of 2008",
+    "Republican": 5,
+    "Democrat": 16
+  },
+  {
+    "act": "Specialty Crops Competitiveness Act of 2004",
+    "Republican": 1,
+    "Democrat": 14
+  },
+  {
+    "act": "Southeast Alaska Native Land Conveyance Act",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Omnibus Budget Reconciliation Act of 1993",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Marine Mammal Protection Act of 1972",
+    "Republican": 6,
+    "Democrat": 0
+  },
+  {
+    "act": "Child Abuse Prevention and Treatment Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Kilah Davenport Child Protection Act of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Geolocational Privacy and Surveillance Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Meat Inspection Act",
+    "Republican": 1,
+    "Democrat": 19
+  },
+  {
+    "act": "Youth PROMISE Act",
+    "Republican": 0,
+    "Democrat": 40
+  },
+  {
+    "act": "Juvenile Justice and Delinquency Prevention Act of 1974",
+    "Republican": 0,
+    "Democrat": 18
+  },
+  {
+    "act": "Containing Risk, Offering Protection Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Financial Institutions Reform, Recovery, and Enforcement Act of 1989",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Financial Crisis Criminal Investigation Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "SCREEN Act of 2013",
+    "Republican": 0,
+    "Democrat": 13
+  },
+  {
+    "act": "Customs Training Enhancement Act",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "Medicare Prescription Drug, Improvement, and Modernization Act of 2003",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Health Care Price Transparency Promotion Act of 2013",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "Migration and Refugee Act of 1962",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Free Syria Act of 2013",
+    "Republican": 0,
+    "Democrat": 37
+  },
+  {
+    "act": "Migration and Refugee Assistance Act of 1962",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Foreign Service Act of 1980",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "Great Ape Conservation Act of 2000",
+    "Republican": 0,
+    "Democrat": 10
+  },
+  {
+    "act": "Great Ape Conservation Reauthorization Amendments Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Marine Turtle Conservation Act of 2004",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Student Loan Fairness Act",
+    "Republican": 0,
+    "Democrat": 13
+  },
+  {
+    "act": "Electronic Health Records Improvement Act",
+    "Republican": 15,
+    "Democrat": 0
+  },
+  {
+    "act": "Equal Access to Quality Education Act of 2013",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Elementary and Secondary Education Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Palestinian Accountability Act",
+    "Republican": 9,
+    "Democrat": 0
+  },
+  {
+    "act": "Tillman Act of 1907",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Taft-Hartley Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Federal Elections Campaign Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Restoring Confidence in Our Democracy Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Bipartisan Campaign Reform Act of 2002",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Gun-Free School Zones Act of 1990",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Urban Jobs Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Financial Competition Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Helping Save Americans' Health Care Choices Act of 2013",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Elementary and Secondary Education Act of 1964",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Anti-Deficiency Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Catastrophic Wildfire Prevention Act of 2013",
+    "Republican": 10,
+    "Democrat": 0
+  },
+  {
+    "act": "National Forest Management Act of 1976",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal Land Assistance, Management, and Enhancement Act of 2009",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Healthy Forests Restoration Act of 2003",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Multiple-Use Sustained-Yield Act of 1960",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "National Forest Management Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Appeals Reform Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Catching Up to 1968 Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Meers Point Boundary Adjustment Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Great Bend of the Gila National Monument Establishment Act",
+    "Republican": 0,
+    "Democrat": 8
+  },
+  {
+    "act": "Santa Cruz Valley National Heritage Area Act",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "Grand Canyon Watersheds Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Grand Canyon Watersheds Protection Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Public Lands Corps Act of 1993",
+    "Republican": 0,
+    "Democrat": 100
+  },
+  {
+    "act": "Public Lands Service Corps Act of 1993",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Public Lands Service Corps Act of 2013",
+    "Republican": 0,
+    "Democrat": 22
+  },
+  {
+    "act": "National and Community Service Act of 1990",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "National and Community Service Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Lower Colorado River Protection Act",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "Reclamation Wastewater and Groundwater Study and Facilities Act",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Reclamation Projects Authorization and Adjustment Act of 1992",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "STEM Education Opportunity Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "JOLT Act of 2013",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "State Nutrition Assistance Flexibility Act of 2013",
+    "Republican": 61,
+    "Democrat": 0
+  },
+  {
+    "act": "Emergency Food Assistance Act of 1983",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Agriculture and Consumer Protection Act of 1973",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1356",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "VOW to Hire Heroes Act of 2011",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1357",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "STEM Opportunities Act of 2013",
+    "Republican": 0,
+    "Democrat": 30
+  },
+  {
+    "act": "Science and Technology Equal Opportunities Act",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Congressional Foreign Travel Cost Disclosure Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "Water Resources Development Act of 1996",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Water Resources Development Act of 1999",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Energy and Water Development Appropriations Act, 2004",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Energy and Water Development and Related Agencies Appropriations Act, 2008",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Military Retiree Survivor Comfort Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Inefficient Defense Elimination Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "National Defense Authorization Act for Fiscal Year 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Law Enforcement Officers Equity Act",
+    "Republican": 22,
+    "Democrat": 0
+  },
+  {
+    "act": "Exploring for Geothermal Energy on Federal Lands Act",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "New Alternative Transportation to Give Americans Solutions Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Energy Tax Incentives Act of 2005",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Refugee Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 35
+  },
+  {
+    "act": "An Act to increase the number of Iraqi and Afghani translators and interpreters who may be admitted to the United States as special immigrants, and for other purposes",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Stop Oxy Abuse Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "FEHBP Prescription Drug Integrity, Transparency, and Cost Savings Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "International Travelers Bill of Rights Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1372",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "Robert C. Byrd Mine Safety Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 51
+  },
+  {
+    "act": "Mine Improvement and New Emergency Response Act of 2006",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Black Lung Benefits Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Occupational Safety and Health Act of 1970",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "Social Security Enhancement and Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Reducing Regulatory Obstacles to Wind Energy Production Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1376",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Mescalero Apache Tribe Leasing Authorization Act",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1378",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Puerto Rico Hospital HITECH Amendments Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "NICS Improvement Amendments Act of 2007",
+    "Republican": 0,
+    "Democrat": 17
+  },
+  {
+    "act": "Brady Handgun Violence Prevention Act",
+    "Republican": 0,
+    "Democrat": 7
+  },
+  {
+    "act": "Fix Gun Checks Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Brady Handgun Violence Protection Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Access to Congressionally Mandated Reports Act",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Educational Opportunities Act",
+    "Republican": 10,
+    "Democrat": 0
+  },
+  {
+    "act": "Ocean and Coastal Mapping Integration Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Coastal Zone Management Act of 1972",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Integrated Coastal and Ocean Observation System Act of 2009",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Digital Coast Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Wildlife Refuge System Conservation Semipostal Stamp Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Privacy Act of 1974",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Safe Cosmetics and Personal Care Products Act of 2013",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Local School Board Governance and Flexibility Act",
+    "Republican": 5,
+    "Democrat": 0
+  },
+  {
+    "act": "Perishable Agricultural Commodities Act, 1930",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1388",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Atomic Energy Act of 1954",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1391",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1392",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1393",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Planning for American Energy Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Agricultural Adjustment Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Agricultural Marketing Agreement Act of 1937",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "California Federal Milk Marketing Order Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Project Rebuild Act of 2013",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Cranston-Gonzalez National Affordable Housing Act of 1990",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Housing and Economic Recovery Act of 2008",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Advancing Offshore Wind Production Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Hydrographic Services Improvement Act of 1998",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "Hydrographic Services Improvement Amendments Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Udall-Eisenhower Arctic Wilderness Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "113 HR 1400",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Supplemental Appropriations Act, 2009",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "113 HR 1401",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Family Telephone Connection Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Animal Drug User Fee Amendments of 2013",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Animal Drug User Fee Amendments of 2008",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Animal Drug User Fee Act of 2003",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Animal Generic Drug User Fee Amendments of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Animal Generic Drug User Fee Act of 2008",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Export Enhancement Act of 1988",
+    "Republican": 0,
+    "Democrat": 21
+  },
+  {
+    "act": "Export Promotion Reform Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Birthright Citizenship Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Keep the Promise Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "California Coastal National Monument Expansion Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Local Farms, Food, and Jobs Act of 2013",
+    "Republican": 0,
+    "Democrat": 30
+  },
+  {
+    "act": "Department of Agriculture Reorganization Act of 1994",
+    "Republican": 0,
+    "Democrat": 21
+  },
+  {
+    "act": "Agricultural Risk Protection Act of 2000",
+    "Republican": 0,
+    "Democrat": 25
+  },
+  {
+    "act": "Farm Credit Act of 1971",
+    "Republican": 0,
+    "Democrat": 3
+  },
+  {
+    "act": "Competitive, Special, and Facilities Research Grant Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Agricultural Research, Extension, and Education Reform Act of 1998",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Rural Development Act of 1972",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Food, Agriculture, Conservation, and Trade Act of 1990",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "of the Competitive, Special, and Facilities Research Grant Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Farmer-to-Consumer Direct Marketing Act of 1976",
+    "Republican": 0,
+    "Democrat": 23
+  },
+  {
+    "act": "Organic Foods Production Act of 1990",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Food Security Act",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Poultry Products Inspection Act",
+    "Republican": 0,
+    "Democrat": 12
+  },
+  {
+    "act": "Cancer Patient Protection Act of 2013",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Border Security Results Act of 2013",
+    "Republican": 20,
+    "Democrat": 0
+  },
+  {
+    "act": "Bridge to Jobs Act",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "act": "American Export Promotion Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Advancing Innovative Manufacturing Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "America COMPETES Reauthorization Act of 2010",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Environmental Research, Development, and Demonstration Authorization Act of 1978",
+    "Republican": 16,
+    "Democrat": 0
+  },
+  {
+    "act": "Taxpayers Right-To-Know Act",
+    "Republican": 8,
+    "Democrat": 0
+  },
+  {
+    "act": "Improper Payments Information Act of 2002",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Marine Debris Act",
+    "Republican": 0,
+    "Democrat": 6
+  },
+  {
+    "act": "Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Big Oil Welfare Repeal Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Truth in Healthcare Marketing Act of 2013",
+    "Republican": 4,
+    "Democrat": 0
+  },
+  {
+    "act": "Submerged Lands Act",
+    "Republican": 9,
+    "Democrat": 0
+  },
+  {
+    "act": "Offshore Fairness Act",
+    "Republican": 12,
+    "Democrat": 0
+  },
+  {
+    "act": "Federal outer Continental Shelf, including the Gulf of Mexico Energy Security Act of 2006",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2012",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Grand Teton National Park Act",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "Equal Justice for Our Military Act of 2013",
+    "Republican": 0,
+    "Democrat": 2
+  },
+  {
+    "act": "Honorable Stephanie Tubbs Jones College Fire Preservation Act",
+    "Republican": 0,
+    "Democrat": 11
+  },
+  {
+    "act": "Veterans Pensions Protection Act of 2013",
+    "Republican": 0,
+    "Democrat": 1
+  },
+  {
+    "act": "Antidumping Act, 1921",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "North American Free Trade Agreement Implementation Act",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Enforcing Orders and Reducing Customs Evasion Act of 2013",
+    "Republican": 7,
+    "Democrat": 0
+  },
+  {
+    "act": "Electronic Life Safety and Security Systems Federal Background Check Act of 2013",
+    "Republican": 3,
+    "Democrat": 0
+  },
+  {
+    "act": "National Aeronautics and Space Administration Authorization Act of 2005",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "National Aeronautics and Space Administration Authorization Act of 2008",
+    "Republican": 2,
+    "Democrat": 0
+  },
+  {
+    "act": "National Aeronautics and Space Administration Authorization Act of 2010",
+    "Republican": 1,
+    "Democrat": 0
+  },
+  {
+    "act": "Death in Custody Reporting Act of 2013",
+    "Republican": 0,
+    "Democrat": 14
+  }
+]

@@ -1,5 +1,11 @@
 // Meteor.startup(function () {
 //
+//   /*
+//   README
+//   To run, uncomment the legislatorArray below, and populate bills at the bottom
+//
+//   */
+//
 //   var DOMParser = Meteor.npmRequire('xmldom').DOMParser
 //
 //   var fs = Npm.require('fs')
@@ -58,7 +64,7 @@
 //           var entityRef = xmlDoc.getElementsByTagName('cato:entity-ref')
 //
 //           // only unique act names
-//           var acts = _.uniq(getValues(entityRef, 'act'))
+//           var acts = getValues(entityRef, 'act')
 //           var federalBodies = getValues(entityRef, 'federal-body')
 //           // var people = getValues(entityRef, 'person')
 //           // var committees = getValues(entityRef, 'committee')
@@ -120,7 +126,7 @@
 //   // console.log(actSet);
 //
 //   // save file to desktop
-//   // let res = fs.writeFileSync("/Users/xxxx/Desktop/acts.js", JSON.stringify(actSet));
+//   // let res = fs.writeFileSync("/Users/xxxx/Desktop/acts-duplicates.json", JSON.stringify(actSet));
 //   // console.log(res);
 //
 // });
