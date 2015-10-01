@@ -34,11 +34,11 @@ if (Meteor.isClient) {
         .attr({
           cx: function(d) {
             var sum = d.Republican + d.Democrat
-            var percentR = d.Republican / sum
+            var percentD = d.Democrat / sum
             var scaled = d3.scale.linear()
               .domain([0, 1])
               .range([50, width - 50])
-            return scaled(percentR) + "px"
+            return scaled(percentD) + "px"
           },
           cy: height / 2 + "px",
           r: function(d) { return d.Republican + d.Democrat},
@@ -47,14 +47,14 @@ if (Meteor.isClient) {
         .style({
           fill: function(d) {
             var sum = d.Republican + d.Democrat
-            var percentR = d.Republican / sum
-            return color(percentR)
+            var percentD = d.Democrat / sum
+            return color(percentD)
           },
           "stroke-width": "1px",
           stroke: function(d) {
             var sum = d.Republican + d.Democrat
-            var percentR = d.Republican / sum
-            return color(percentR)
+            var percentD = d.Democrat / sum
+            return color(percentD)
           },
           "stroke-opacity": 1,
           "fill-opacity": 0.8
