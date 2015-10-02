@@ -41,7 +41,7 @@ if (Meteor.isClient) {
             return scaled(percentD) + "px"
           },
           cy: height / 2 + "px",
-          r: function(d) { return (d.Republican + d.Democrat)/2},
+          r: function(d) { return (d.Republican + d.Democrat) * 4 },
           class: 'node'
         })
         .style({
@@ -52,9 +52,7 @@ if (Meteor.isClient) {
           },
           "stroke-width": "1px",
           stroke: function(d) {
-            var sum = d.Republican + d.Democrat
-            var percentD = d.Democrat / sum
-            return color(percentD)
+            return "#666"
           },
           "stroke-opacity": 1,
           "fill-opacity": 0.8

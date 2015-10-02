@@ -13,11 +13,11 @@
 //
 //   let actSet = [];
 //
-//   // console.log("Populating legislators...");
-//   // let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
-//   // let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
-//   // let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
-//   // console.log("Added " + legislatorArray.length + " legislators.");
+//   console.log("Populating legislators...");
+//   let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
+//   let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
+//   let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
+//   console.log("Added " + legislatorArray.length + " legislators.");
 //
 //   // Must bind to the file system environment or it will not work
 //   var populateBills = Meteor.bindEnvironment(function(files) {
@@ -65,7 +65,7 @@
 //
 //           // only unique act names
 //           var acts = getValues(entityRef, 'act')
-//           var federalBodies = getValues(entityRef, 'federal-body')
+//           var federalBodies = _.uniq(getValues(entityRef, 'federal-body'))
 //           // var people = getValues(entityRef, 'person')
 //           // var committees = getValues(entityRef, 'committee')
 //           // var uscodes = getValues(entityRef, 'uscode')
@@ -74,7 +74,7 @@
 //           // var billsByNumber = getValues(entityRef, 'bills-by-number')
 //
 //           // take only acts that reference other acts
-//           if (acts.length) {
+//           if (federalBodies.length) {
 //             // filter out all legislators other than the one we want
 //             let currentSponsor = _.find(legislatorArray, function(legislator) {
 //               return legislator.id.bioguide === sponsor;
@@ -83,7 +83,7 @@
 //             let sponsorParty = currentSponsor.terms[0].party
 //
 //             // console.log(sponsorName, sponsorParty);
-//             _.each(acts, function(act) {
+//             _.each(federalBodies, function(act) {
 //               // Make sure the party is either republican or democrat
 //               if (sponsorParty === "Democrat" || sponsorParty === "Republican") {
 //                 // if it does not have the act
@@ -119,14 +119,14 @@
 //
 //   // resetDB(Legislators)
 //
-//   // console.log("Populating bills...");
-//   // populateBills(files)
-//   // console.log("Added " + files.length + " bills.");
+//   console.log("Populating bills...");
+//   populateBills(files)
+//   console.log("Added " + files.length + " bills.");
 //
 //   // console.log(actSet);
 //
 //   // save file to desktop
-//   // let res = fs.writeFileSync("/Users/xxxx/Desktop/acts-duplicates.json", JSON.stringify(actSet));
-//   // console.log(res);
+//   let res = fs.writeFileSync("/Users/xxxx/Desktop/federalBodies.json", JSON.stringify(actSet));
+//   console.log(res);
 //
 // });
