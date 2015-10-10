@@ -25,7 +25,7 @@ if (Meteor.isClient) {
         .attr("class", "center-line")
 
 
-      d3.json('acts-unique-notproposed.json', function(err, acts) {
+      d3.json('acts.json', function(err, acts) {
         if (err) {throw err};
         // console.log(acts);
 
@@ -42,7 +42,9 @@ if (Meteor.isClient) {
               return scaled(percentD) + "px"
             },
             cy: height / 2 + "px",
-            r: function(d) { return (d.Republican + d.Democrat) },
+            r: function(d) {
+              return (d.Republican + d.Democrat) / 12
+            },
             class: 'node'
           })
           .style({
