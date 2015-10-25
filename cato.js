@@ -388,12 +388,4 @@ if (Meteor.isClient) {
     actsByAge();
 
   })
-
-  Template.body.events({
-    // handle chart changes
-    'click a': function(evt) {
-      console.log("Bingo!");
-    }
-  })
-
 }
