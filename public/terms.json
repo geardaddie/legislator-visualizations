@@ -1,0 +1,122 @@
+[
+  {
+    "term_count": 1,
+    "Republican": 466,
+    "Democrat": 690
+  },
+  {
+    "term_count": 2,
+    "Republican": 633,
+    "Democrat": 1921
+  },
+  {
+    "term_count": 3,
+    "Republican": 1565,
+    "Democrat": 564
+  },
+  {
+    "term_count": 4,
+    "Republican": 1052,
+    "Democrat": 983
+  },
+  {
+    "term_count": 5,
+    "Republican": 736,
+    "Democrat": 1009
+  },
+  {
+    "term_count": 6,
+    "Republican": 491,
+    "Democrat": 600
+  },
+  {
+    "term_count": 7,
+    "Republican": 812,
+    "Democrat": 814
+  },
+  {
+    "term_count": 8,
+    "Republican": 525,
+    "Democrat": 470
+  },
+  {
+    "term_count": 9,
+    "Republican": 142,
+    "Democrat": 937
+  },
+  {
+    "term_count": 10,
+    "Republican": 259,
+    "Democrat": 872
+  },
+  {
+    "term_count": 11,
+    "Republican": 267,
+    "Democrat": 301
+  },
+  {
+    "term_count": 12,
+    "Republican": 642,
+    "Democrat": 830
+  },
+  {
+    "term_count": 13,
+    "Republican": 24,
+    "Democrat": 326
+  },
+  {
+    "term_count": 14,
+    "Republican": 84,
+    "Democrat": 226
+  },
+  {
+    "term_count": 15,
+    "Republican": 48,
+    "Democrat": 265
+  },
+  {
+    "term_count": 16,
+    "Republican": 20,
+    "Democrat": 1
+  },
+  {
+    "term_count": 17,
+    "Republican": 10,
+    "Democrat": 82
+  },
+  {
+    "term_count": 18,
+    "Republican": 375,
+    "Democrat": 5
+  },
+  {
+    "term_count": 19,
+    "Republican": 184,
+    "Democrat": 18
+  },
+  {
+    "term_count": 20,
+    "Republican": 0,
+    "Democrat": 189
+  },
+  {
+    "term_count": 22,
+    "Republican": 114,
+    "Democrat": 164
+  },
+  {
+    "term_count": 23,
+    "Republican": 0,
+    "Democrat": 53
+  },
+  {
+    "term_count": 26,
+    "Republican": 0,
+    "Democrat": 82
+  },
+  {
+    "term_count": 30,
+    "Republican": 0,
+    "Democrat": 8
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "state": "OH",
+    "Republican": 285,
+    "Democrat": 254
+  },
+  {
+    "state": "ME",
+    "Republican": 77,
+    "Democrat": 48
+  },
+  {
+    "state": "MA",
+    "Republican": 0,
+    "Democrat": 413
+  },
+  {
+    "state": "AZ",
+    "Republican": 208,
+    "Democrat": 194
+  },
+  {
+    "state": "GA",
+    "Republican": 251,
+    "Democrat": 120
+  },
+  {
+    "state": "RI",
+    "Republican": 0,
+    "Democrat": 285
+  },
+  {
+    "state": "KY",
+    "Republican": 361,
+    "Democrat": 21
+  },
+  {
+    "state": "TX",
+    "Republican": 579,
+    "Democrat": 270
+  },
+  {
+    "state": "VI",
+    "Republican": 0,
+    "Democrat": 23
+  },
+  {
+    "state": "NY",
+    "Republican": 237,
+    "Democrat": 883
+  },
+  {
+    "state": "FL",
+    "Republican": 365,
+    "Democrat": 427
+  },
+  {
+    "state": "NJ",
+    "Republican": 245,
+    "Democrat": 464
+  },
+  {
+    "state": "SC",
+    "Republican": 225,
+    "Democrat": 1
+  },
+  {
+    "state": "CA",
+    "Republican": 581,
+    "Democrat": 1336
+  },
+  {
+    "state": "CT",
+    "Republican": 0,
+    "Democrat": 437
+  },
+  {
+    "state": "OR",
+    "Republican": 21,
+    "Democrat": 481
+  },
+  {
+    "state": "AR",
+    "Republican": 123,
+    "Democrat": 47
+  },
+  {
+    "state": "AL",
+    "Republican": 55,
+    "Democrat": 66
+  },
+  {
+    "state": "ID",
+    "Republican": 70,
+    "Democrat": 0
+  },
+  {
+    "state": "NE",
+    "Republican": 154,
+    "Democrat": 0
+  },
+  {
+    "state": "WV",
+    "Republican": 92,
+    "Democrat": 176
+  },
+  {
+    "state": "IL",
+    "Republican": 163,
+    "Democrat": 368
+  },
+  {
+    "state": "IN",
+    "Republican": 137,
+    "Democrat": 34
+  },
+  {
+    "state": "MI",
+    "Republican": 339,
+    "Democrat": 390
+  },
+  {
+    "state": "TN",
+    "Republican": 302,
+    "Democrat": 41
+  },
+  {
+    "state": "MD",
+    "Republican": 15,
+    "Democrat": 242
+  },
+  {
+    "state": "MS",
+    "Republican": 98,
+    "Democrat": 8
+  },
+  {
+    "state": "MP",
+    "Republican": 0,
+    "Democrat": 34
+  },
+  {
+    "state": "WA",
+    "Republican": 155,
+    "Democrat": 408
+  },
+  {
+    "state": "CO",
+    "Republican": 118,
+    "Democrat": 276
+  },
+  {
+    "state": "WI",
+    "Republican": 352,
+    "Democrat": 177
+  },
+  {
+    "state": "PA",
+    "Republican": 383,
+    "Democrat": 258
+  },
+  {
+    "state": "LA",
+    "Republican": 329,
+    "Democrat": 96
+  },
+  {
+    "state": "GU",
+    "Republican": 0,
+    "Democrat": 29
+  },
+  {
+    "state": "MN",
+    "Republican": 95,
+    "Democrat": 322
+  },
+  {
+    "state": "VT",
+    "Republican": 0,
+    "Democrat": 151
+  },
+  {
+    "state": "AK",
+    "Republican": 206,
+    "Democrat": 207
+  },
+  {
+    "state": "MO",
+    "Republican": 126,
+    "Democrat": 61
+  },
+  {
+    "state": "VA",
+    "Republican": 89,
+    "Democrat": 443
+  },
+  {
+    "state": "PR",
+    "Republican": 0,
+    "Democrat": 15
+  },
+  {
+    "state": "UT",
+    "Republican": 265,
+    "Democrat": 20
+  },
+  {
+    "state": "NC",
+    "Republican": 171,
+    "Democrat": 109
+  },
+  {
+    "state": "WY",
+    "Republican": 130,
+    "Democrat": 0
+  },
+  {
+    "state": "NV",
+    "Republican": 156,
+    "Democrat": 263
+  },
+  {
+    "state": "DC",
+    "Republican": 0,
+    "Democrat": 55
+  },
+  {
+    "state": "HI",
+    "Republican": 0,
+    "Democrat": 110
+  },
+  {
+    "state": "SD",
+    "Republican": 114,
+    "Democrat": 20
+  },
+  {
+    "state": "NM",
+    "Republican": 30,
+    "Democrat": 235
+  },
+  {
+    "state": "AS",
+    "Republican": 0,
+    "Democrat": 5
+  },
+  {
+    "state": "IA",
+    "Republican": 60,
+    "Democrat": 471
+  },
+  {
+    "state": "KS",
+    "Republican": 143,
+    "Democrat": 0
+  },
+  {
+    "state": "OK",
+    "Republican": 375,
+    "Democrat": 0
+  },
+  {
+    "state": "MT",
+    "Republican": 32,
+    "Democrat": 282
+  },
+  {
+    "state": "NH",
+    "Republican": 60,
+    "Democrat": 136
+  },
+  {
+    "state": "DE",
+    "Republican": 0,
+    "Democrat": 169
+  },
+  {
+    "state": "ND",
+    "Republican": 77,
+    "Democrat": 29
+  }
+]

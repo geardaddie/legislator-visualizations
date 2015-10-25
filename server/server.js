@@ -1,15 +1,15 @@
 Meteor.startup(function () {
-
+/*
   var DOMParser = Meteor.npmRequire('xmldom').DOMParser
 
   var fs = Npm.require('fs')
-  var files = fs.readdirSync('/Users/xxxx/qSites/bills_xml')
+  var files = fs.readdirSync('/Users/johnshields/Hackathon/bills_xml')
 
   let actSet = [];
 
   console.log("Populating legislators...");
-  let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-historical.json', 'utf8'))
-  let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/xxxx/qSites/legislators_historical/legislators-current.json', 'utf8'))
+  let historicalLegislatorArray = JSON.parse(fs.readFileSync('/Users/johnshields/Hackathon/legislators_historical/legislators-historical.json', 'utf8'))
+  let currentLegislatorArray = JSON.parse(fs.readFileSync('/Users/johnshields/Hackathon/legislators_historical/legislators-current.json', 'utf8'))
   let legislatorArray = historicalLegislatorArray.concat(currentLegislatorArray)
   console.log("Added " + legislatorArray.length + " legislators.");
 
@@ -47,13 +47,13 @@ Meteor.startup(function () {
                     }
                     // gets rid of all the extra stuff at the end of the common name
                     // if there isnt a tailing "/", then just return the item
-                    /*
+                    / *
                     for Federal bodies
                     entity-parent-id
                     and
                     entity-id
                     Then we references the entity-id against the table
-                    */
+                    * /
 
 
                   } else {
@@ -72,7 +72,7 @@ Meteor.startup(function () {
           }
 
           // Get the contents of the file
-          var content = fs.readFileSync('/Users/xxxx/qSites/bills_xml/' + file, 'utf8');
+          var content = fs.readFileSync('/Users/johnshields/Hackathon/bills_xml/' + file, 'utf8');
 
           var parser = new DOMParser();
           var xmlDoc = parser.parseFromString(content,"text/xml");
@@ -184,9 +184,9 @@ Meteor.startup(function () {
   console.log("Added " + files.length + " bills.");
 
   // save file to desktop
-  let res = fs.writeFileSync("/Users/xxxx/Desktop/acts.json", JSON.stringify(actSet));
+  let res = fs.writeFileSync("/Users/johnshields/Desktop/acts.json", JSON.stringify(actSet));
   console.log(res);
 
-  let err = fs.writeFileSync("/Users/xxxx/Desktop/err.txt", _.uniq(errorList).join("\r\n"));
-
+  let err = fs.writeFileSync("/Users/johnshields/Desktop/err.txt", _.uniq(errorList).join("\r\n"));
+*/
 });
