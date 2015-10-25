@@ -1,11 +1,5 @@
 Meteor.startup(function () {
 
-  /*
-  README
-  To run, uncomment the legislatorArray below, and populate bills at the bottom
-
-  */
-
   var DOMParser = Meteor.npmRequire('xmldom').DOMParser
 
   var fs = Npm.require('fs')
@@ -118,6 +112,8 @@ Meteor.startup(function () {
           // var statutesAtLarge = getValues(entityRef, 'statute-at-large')
           // var billsByNumber = getValues(entityRef, 'bills-by-number')
           // take only acts that reference other acts
+
+
           if (acts.length) {
             // if it has a sponsor
             if (sponsor) {
@@ -159,7 +155,6 @@ Meteor.startup(function () {
                         currentAct[sponsorParty] += 1;
                       }
                     } else {
-                      console.log(sponsorParty);
                       console.warn("File " + file + " has a SPONSOR PARTY error.")
                       errorList.push("File " + file + " has a SPONSOR PARTY error.")
                     }
