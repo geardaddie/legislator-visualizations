@@ -1,5 +1,10 @@
+
 .center-line {
   background-color: #aaa;
+}
+
+.label {
+  color: white;
 }
 
 .node:hover {
@@ -23,4 +28,25 @@ div.tooltip {
   border: 0px;
   border-radius: 8px;
   pointer-events: none;
+}
+
+.subunit {
+  fill: grey;
+  stroke: #A9A9A9;
+  stroke-width: 1;
+}
+
+.state:hover {
+  fill-opacity: 0.5;
+}
+
+.bubble {
+  fill: orange;
+  fill-opacity: .5;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+.bubble :hover {
+  stroke: #000;
 }

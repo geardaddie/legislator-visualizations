@@ -25,3 +25,4 @@ npm-container
 blaze-html-templates
 jquery
 d3
+mrt:topojson
