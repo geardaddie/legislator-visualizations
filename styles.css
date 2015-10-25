@@ -50,3 +50,7 @@ div.tooltip {
 .bubble :hover {
   stroke: #000;
 }
+
+h2 {
+  text-align: center;
+}
