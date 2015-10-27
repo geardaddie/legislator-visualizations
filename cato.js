@@ -202,7 +202,7 @@ if (Meteor.isClient) {
 
     var actPartisanship = function() {
       var width = 1100
-      var height = 500
+      var height = 400
 
       var color = d3.scale.linear()
         .domain([0, 0.5, 1])
@@ -380,7 +380,6 @@ if (Meteor.isClient) {
         })
       })
     }
-
 
     map();
     actsByTerm();
